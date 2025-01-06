@@ -12,7 +12,7 @@ export default function About() {
             various skills and innate techniques while embarking on a thrilling story-driven adventure.
           </p>
           <p>
-            As you progress through Jujutsu Infinite, you'll engage in intense battles against cursed spirits and 
+            As you progress through Jujutsu Infinite, you&apos;ll engage in intense battles against cursed spirits and 
             face challenging bosses. The game offers a unique blend of action, strategy, and character development, 
             allowing you to grow stronger and master the art of Jujutsu sorcery.
           </p>

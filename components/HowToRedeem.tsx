@@ -8,9 +8,9 @@ export default function HowToRedeem() {
           <h2 className="text-3xl font-bold mb-4 text-purple-500">How to Redeem Jujutsu Infinite Codes</h2>
           <ol className="list-decimal list-inside space-y-2">
             <li>Open Roblox and launch Jujutsu Infinite.</li>
-            <li>Navigate to the 'Customize' option in the main menu.</li>
-            <li>Enter the code in the 'Redeem Code Here' text box.</li>
-            <li>Press the '&gt;' button to claim your rewards.</li>
+            <li>Navigate to the &apos;Customize&apos; option in the main menu.</li>
+            <li>Enter the code in the &apos;Redeem Code Here&apos; text box.</li>
+            <li>Press the &apos;&gt;&apos; button to claim your rewards.</li>
           </ol>
           <p className="mt-4">
             These codes provide valuable resources that help players progress faster in their journey as Jujutsu sorcerers. 
