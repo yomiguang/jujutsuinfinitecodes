@@ -1,7 +1,5 @@
 # Jujutsu Infinite Codes (January 2025)
 
-![Jujutsu Infinite](banner_image_url)
-
 ## 📝 About
 
 Jujutsu Infinite is an exciting Roblox RPG inspired by the popular anime and manga series Jujutsu Kaisen. In this immersive game, players have the opportunity to create their own Jujutsu sorcerer, harness various skills and innate techniques while embarking on a thrilling story-driven adventure.
