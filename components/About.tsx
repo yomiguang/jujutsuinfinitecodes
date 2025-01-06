@@ -5,7 +5,7 @@ export default function About() {
     <section id="about" className="bg-gray-800 p-8 rounded-lg shadow-lg">
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-2/3">
-          <h2 className="text-3xl font-bold mb-4 text-purple-500">Jujutsu Infinite Codes (January 2025)</h2>
+          <h1 className="text-3xl font-bold mb-4 text-purple-500">Jujutsu Infinite Codes (January 2025)</h1>
           <p className="mb-4">
             Jujutsu Infinite is an exciting Roblox RPG inspired by the popular anime and manga series Jujutsu Kaisen. 
             In this immersive game, players have the opportunity to create their own Jujutsu sorcerer, harnessing 
