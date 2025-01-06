@@ -29,6 +29,22 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+       <link rel="alternate" hrefLang="x-default" href="https://jujutsuinfinitecodes.xyz/"/>
+       <link rel="canonical" href="https://jujutsuinfinitecodes.xyz/"/>
+       <script async src="https://www.googletagmanager.com/gtag/js?id=G-KW84QYZ62D"></script>
+        <script>
+           {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-KW84QYZ62D');
+          `}
+        </script>
+        
+     </head>
+
       <body className={`${inter.className} bg-gray-900 text-white`}>
         <Header />
         <main className="container mx-auto px-4 py-8">
